@@ -1,2 +1,5 @@
-# Web-Developer-Portfolio
-A web developer portfolio application that showcases a developer's projects
+New Citations:
+
+https://www.browserstack.com/guide/how-to-make-react-app-responsive
+
+
