@@ -1,58 +1,131 @@
-# Web Developer Portfolio
+# WEB DEVELOPER PORTFOLIO APPLICATION 
 
-Welcome to the web developer portfolio! This project showcases a developer's work, skills, and experiences as a Software Engineer. Built with **React**, it provides an interactive and responsive platform to explore projects, learn about the developer's background, and get in touch.
+Created with Django Backend for the APIs & React Frontend for the user interface.
 
-## Table of Contents
+This project is a web developers portfolio application that showcases your work 
+to prospective employers or clients.  
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Project Showcase](#project-showcase)
-- [Contact](#contact)
+# FEATURES
 
-## About the Project
+Home Page: A responsive animated home page that contains the developers name and a 
+description of what they do as well as a check out my work button.
 
-This web portfolio serves as a professional showcase of a developer's skills in **frontend and backend development**. The main objective is to highlight a developer's work through an intuitive user interface with project descriptions, live demos, and source code access.
+About Page: An about page that contains information about the developer with a check out my work button.
 
-## Features
+Experience Page - Frontend: An experience page that contains details about the developers jobs, 
+programming experience, certifications, achievements, and education (a small resume).
 
-- **Responsive design**: Works on both desktop and mobile devices.
-- **Project gallery**: Displays projects with links to demos and GitHub repositories.
-- **Experience section**: Overview of professional background, skills, and technologies.
-- **Contact form**: Allows visitors to send the developer messages.
+Experience Page - Backend: Contains models for the experience page with a show or hide option.
+    -Models:
+        Programming Experience Model
+        Experience Model 
+        Education Model
+        Achievements Model
+        Certifications Model
 
-## Built With
+Project Page - Frontend: A project page to showcase a developers projects with an option to show 
+Featured Projects at the top of the project page.
 
-- [React](https://reactjs.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [React Router](https://reactrouter.com/)
-- [Django](https://www.djangoproject.com/)
-- [PostgreSQL](https://www.postgresql.org/) 
+Project Page - Backend: The project page backend includes a project model and an other project model.
+    -Models:
+        Project Model (Featured Project Model)
+        Other Project Model
 
-## Getting Started
+Contact Page - Front End: A simple contact form for users to contact the developer.
 
-To get a local copy up and running, follow these steps.
+Contact Page - Backend: The background contains the contact page model and form submission.
+    -Models:
+        Contact
+    -Forms:
+        ContactForm
 
-### Prerequisites
+# REQUIREMENTS
+- python 3+
+- Django 
+- Django Rest Framework
+- Django Database - db.sqlite3
+- React 
+- React-Router-Dom
+- CORS Headers
 
-Make sure you have the following installed:
+# TOOLS & TECHNOLIGIES
+1. IDEs / Editors / Debuggers 
+    - Visual Studio Code for Django backend for building backend services and utilizing the database
+    - Visual Studio Code for React frontend for building frontend and the user interface
+    - Visual Studio Code for Debugging
+2. Languages
+    - HTML for Django and React to build the UI
+    - CSS for the design of the portfolio
+    - Javascript to build the UI in React
+    - Python for Django backend services
+3. Package Managers
+    - npm for React dependencies
+    - pip for Python dependencies
+4. Version Control
+    - Git
+    - Github for project repository
+5. Test Framework
+    - PyTest - TestCase for Django backend testing
+    - React Testing Library for React testing
+6. Software Libraries
+    - Django REST framework for building APIs
+    - React for frontend views and components
+    - Django for backend framework
+    - Fetch API for making HTTP requests from React
+    - React-router-dom for frontend components
+7. Database
+    - Django built-in database for organizing and managing project data
+8. UI Interface
+    - Figma for UI design of each web page
+9. Hosting Service
+    - Dreamhost for hosting my portfolio application (https://www.mummertar.xyz) 
+    - Heroku for backend and frontend deployment
 
-- Node.js (>=14.x)
-- npm (>=6.x) or yarn (>=1.x)
-- React (>=18.3.1)
-- Django (>=5.1.2)
 
-### Installation
+# INSTALLATION
+## Clone or download this project repository - make sure to install python 3+, django, and react.
 
-1. Clone the repo:
-   ```sh
-   git clone https://github.com/your-username/your-portfolio-repo.git
+Django Backend
+1. cd ./portfolio_backend
+2. Create your virtual environment - `python -m venv env`
+3. Activate your virtual environment in bash - `env\Scripts\activate` (Windows) `source env/bin/activate` (MacOS)
+4. `pip install django`
+5. `pip install django-rest-framework`
+6. `pip install -r requirements.txt` or `pip freeze > requirements.txt`
+7. `pip install django-cors-headers`
+8. `pip manage.py makemigrations`
+9. `python manage.py migrate`
+10. `python manage.py createsuperuser` - Django Admin: http://127.0.0.1:8000/admin 
+11. `python -m pip install -r portfolio_backend/requirements.txt` - to set up your own virtual environment
+12. `python manage.py runserver` 
+
+React Frontend
+1. cd ./portfolio_frontend
+2. `npm install react`
+3. `npm install react-route-dom`
+4. `npm install axios`
+5. `npm start` - React Front End: https://localhost:3000
+
+# CITATIONS
+
+- https://v5.reactrouter.com/web/guides/quick-start
+- https://www.stackhawk.com/blog/django-cors-guide/
+- https://ordinarycoders.com/blog/article/build-a-django-contact-form-with-email-backend
+- https://www.django-rest-framework.org/tutorial/2-requests-and-responses/
+- https://react-hook-form.com/docs/useform/handlesubmit
+- https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+- https://medium.com/@gazzaazhari/django-backend-react-frontend-basic-tutorial-6249af7964e4
+- https://react.dev/learn
+- https://docs.djangoproject.com/en/5.0/
+- https://github.com/django/django
+
+## CSS / Icons / Animations / Buttons
+- https://www.iconfinder.com/icons/326717/more_unfold_icon  - Author: Google / Icon Finder
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations
+- https://getcssscan.com/css-buttons-examples
+
+## UI/UX
+- UI/UX designed with Figma
 
 
 
