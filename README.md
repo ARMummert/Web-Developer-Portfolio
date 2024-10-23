@@ -1,11 +1,25 @@
-# WEB DEVELOPER PORTFOLIO APPLICATION 
+# Web Developer Portfolio
+
+Welcome to the web developer portfolio! This project showcases a developers work, skills, and experiences as a Developer. Built with **React**, it provides an interactive and responsive platform to explore a developer's projects, learn about the developer's background, and get in touch.
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Project Showcase](#project-showcase)
+- [Contact](#contact)
 
 Created with Django Backend for the APIs & React Frontend for the user interface.
 
 This project is a web developers portfolio application that showcases your work 
 to prospective employers or clients.  
 
-# FEATURES
+## FEATURES
 
 Home Page: A responsive animated home page that contains the developers name and a 
 description of what they do as well as a check out my work button.
@@ -39,8 +53,8 @@ Contact Page - Backend: The background contains the contact page model and form 
     -Forms:
         ContactForm
 
-# REQUIREMENTS
-- python 3+
+## REQUIREMENTS
+- Python
 - Django 
 - Django Rest Framework
 - Django Database - db.sqlite3
@@ -48,7 +62,7 @@ Contact Page - Backend: The background contains the contact page model and form 
 - React-Router-Dom
 - CORS Headers
 
-# TOOLS & TECHNOLIGIES
+## TOOLS & TECHNOLIGIES
 1. IDEs / Editors / Debuggers 
     - Visual Studio Code for Django backend for building backend services and utilizing the database
     - Visual Studio Code for React frontend for building frontend and the user interface
