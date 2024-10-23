@@ -1,6 +1,6 @@
 # Web Developer Portfolio
 
-Welcome to my personal web developer portfolio! This project showcases my work, skills, and experiences as a Full Stack Developer. Built with **React**, it provides an interactive and responsive platform to explore my projects, learn about my background, and get in touch.
+Welcome to the web developer portfolio! This project showcases a developer's work, skills, and experiences as a Software Engineer. Built with **React**, it provides an interactive and responsive platform to explore projects, learn about the developer's background, and get in touch.
 
 ## Table of Contents
 
@@ -16,15 +16,14 @@ Welcome to my personal web developer portfolio! This project showcases my work, 
 
 ## About the Project
 
-This web portfolio serves as a professional showcase of my skills in **frontend and backend development**. The main objective is to highlight my work through an intuitive user interface with project descriptions, live demos, and source code access.
+This web portfolio serves as a professional showcase of a developer's skills in **frontend and backend development**. The main objective is to highlight a developer's work through an intuitive user interface with project descriptions, live demos, and source code access.
 
 ## Features
 
 - **Responsive design**: Works on both desktop and mobile devices.
-- **Project gallery**: Displays projects with links to live demos and GitHub repositories.
+- **Project gallery**: Displays projects with links to demos and GitHub repositories.
 - **Experience section**: Overview of professional background, skills, and technologies.
-- **Contact form**: Allows visitors to send me messages directly.
-- **Blog (optional)**: A section for writing about web development, tools, and experiences.
+- **Contact form**: Allows visitors to send the developer messages.
 
 ## Built With
 
@@ -33,8 +32,8 @@ This web portfolio serves as a professional showcase of my skills in **frontend 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [React Router](https://reactrouter.com/)
-- [Node.js](https://nodejs.org/) (for backend API if applicable)
-- [PostgreSQL](https://www.postgresql.org/) (or other databases if applicable)
+- [Django](https://www.djangoproject.com/)
+- [PostgreSQL](https://www.postgresql.org/) 
 
 ## Getting Started
 
@@ -46,6 +45,8 @@ Make sure you have the following installed:
 
 - Node.js (>=14.x)
 - npm (>=6.x) or yarn (>=1.x)
+- React (>=18.3.1)
+- Django (>=5.1.2)
 
 ### Installation
 
