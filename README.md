@@ -10,57 +10,48 @@ Welcome to the web developer portfolio! This project showcases a developers work
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Tools and Technologies](#tools-and-technologies)
 - [Usage](#usage)
 - [Project Showcase](#project-showcase)
 - [Contact](#contact)
 
+## About the Project
 Created with Django Backend for the APIs & React Frontend for the user interface.
 
 This project is a web developers portfolio application that showcases your work 
 to prospective employers or clients.  
 
-## FEATURES
+This web portfolio serves as a professional showcase of my skills in **frontend and backend development**. The main objective is to highlight my work through an intuitive user interface with project descriptions, live demos, and source code access.
 
-Home Page: A responsive animated home page that contains the developers name and a 
-description of what they do as well as a check out my work button.
+## Features
 
-About Page: An about page that contains information about the developer with a check out my work button.
+- **Responsive design**: Works on both desktop and mobile devices.
+- **Project gallery**: Displays projects with links to live demos and GitHub repositories.
+- **Experience section**: Overview of professional background, skills, and technologies.
+- **Contact form**: Allows visitors to send me messages directly.
+- **Blog (optional)**: A section for writing about web development, tools, and experiences.
 
-Experience Page - Frontend: An experience page that contains details about the developers jobs, 
-programming experience, certifications, achievements, and education (a small resume).
+## Built With
 
-Experience Page - Backend: Contains models for the experience page with a show or hide option.
-    -Models:
-        Programming Experience Model
-        Experience Model 
-        Education Model
-        Achievements Model
-        Certifications Model
+- [React](https://reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [React Router](https://reactrouter.com/)
+- [Node.js](https://nodejs.org/) (for backend API if applicable)
+- [PostgreSQL](https://www.postgresql.org/) (or other databases if applicable)
 
-Project Page - Frontend: A project page to showcase a developers projects with an option to show 
-Featured Projects at the top of the project page.
+## Getting Started
 
-Project Page - Backend: The project page backend includes a project model and an other project model.
-    -Models:
-        Project Model (Featured Project Model)
-        Other Project Model
+To get a local copy up and running, follow these steps.
 
-Contact Page - Front End: A simple contact form for users to contact the developer.
+### PREREQUISITES
+Make sure you have the following installed:
 
-Contact Page - Backend: The background contains the contact page model and form submission.
-    -Models:
-        Contact
-    -Forms:
-        ContactForm
-
-## REQUIREMENTS
-- Python
-- Django 
-- Django Rest Framework
-- Django Database - db.sqlite3
-- React 
-- React-Router-Dom
-- CORS Headers
+- Node.js (>=14.x)
+- npm (>=6.x) or yarn (>=1.x)
+- React (>=18.0.0)
+- Django (>=5.1.3)
 
 ## TOOLS & TECHNOLIGIES
 1. IDEs / Editors / Debuggers 
