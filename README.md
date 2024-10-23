@@ -53,7 +53,7 @@ Make sure you have the following installed:
 - React (>=18.0.0)
 - Django (>=5.1.3)
 
-## TOOLS AND TECHNOL0GIES
+## Tools and Technologies
 1. IDEs / Editors / Debuggers 
     - Visual Studio Code for Django backend for building backend services and utilizing the database
     - Visual Studio Code for React frontend for building frontend and the user interface
