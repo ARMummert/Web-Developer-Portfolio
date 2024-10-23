@@ -10,7 +10,7 @@ Welcome to the web developer portfolio! This project showcases a developers work
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Tools and Technologies](#tools-and-technologies)
+- [Tools and Technologies](#tools&technologies)
 - [Usage](#usage)
 - [Project Showcase](#project-showcase)
 - [Contact](#contact)
