@@ -11,9 +11,7 @@ Welcome to the web developer portfolio! This project showcases a developers work
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Tools and Technologies](#tools-and-technologies)
-- [Usage](#usage)
-- [Project Showcase](#project-showcase)
-- [Contact](#contact)
+- [Citations](#citations)
 
 ## About the Project
 Created with Django Backend for the APIs & React Frontend for the user interface.
@@ -88,7 +86,7 @@ Make sure you have the following installed:
 
 
 # INSTALLATION
-## Clone or download this project repository - make sure to install python 3+, django, and react.
+## Clone or download this project repository
 
 Django Backend
 1. cd ./portfolio_backend
