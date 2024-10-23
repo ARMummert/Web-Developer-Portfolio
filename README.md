@@ -10,7 +10,7 @@ Welcome to the web developer portfolio! This project showcases a developers work
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Tools and Technologies](#tools&technologies)
+- [Tools and Technologies](#tools-and-technologies)
 - [Usage](#usage)
 - [Project Showcase](#project-showcase)
 - [Contact](#contact)
@@ -53,7 +53,7 @@ Make sure you have the following installed:
 - React (>=18.0.0)
 - Django (>=5.1.3)
 
-## TOOLS & TECHNOLIGIES
+## TOOLS AND TECHNOL0GIES
 1. IDEs / Editors / Debuggers 
     - Visual Studio Code for Django backend for building backend services and utilizing the database
     - Visual Studio Code for React frontend for building frontend and the user interface
