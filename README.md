@@ -23,17 +23,22 @@ to prospective employers or clients.
 
 ## Features
 
-- **Responsive design**: Works on both desktop and mobile devices.
 - **Project gallery**: Displays projects with links to live demos and GitHub repositories.
 
 ![Web Developer Project Gallery](public/images/webdeveloperprojects.png)
+![Web Developer Small Projects](public/images/webdeveloperprojects2.png)
+
+- **About section**: A section all about the developer.
+
+![Web Developer About](public/images/webdeveloperabout.png)
   
 - **Experience section**: Overview of professional background, skills, and technologies.
 
 ![Web Developer Experience](public/images/webdeveloperexperience.png)
   
 - **Contact form**: Allows visitors to send me messages directly.
-- **Blog (optional)**: A section for writing about web development, tools, and experiences.
+
+![Web Developer Contact](public/images/webdevelopercontact.png)
 
 ## Built With
 
