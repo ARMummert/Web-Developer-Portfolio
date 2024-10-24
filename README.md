@@ -21,12 +21,13 @@ Created with Django Backend for the APIs & React Frontend for the user interface
 This project is a web developers portfolio application that showcases your work 
 to prospective employers or clients.  
 
-This web portfolio serves as a professional showcase of my skills in **frontend and backend development**. The main objective is to highlight my work through an intuitive user interface with project descriptions, live demos, and source code access.
-
 ## Features
 
 - **Responsive design**: Works on both desktop and mobile devices.
 - **Project gallery**: Displays projects with links to live demos and GitHub repositories.
+
+![Web Developer Project Gallery](public/images/webdeveloperprojects.png)
+  
 - **Experience section**: Overview of professional background, skills, and technologies.
 - **Contact form**: Allows visitors to send me messages directly.
 - **Blog (optional)**: A section for writing about web development, tools, and experiences.
