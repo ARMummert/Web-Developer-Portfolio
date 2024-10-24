@@ -29,6 +29,9 @@ to prospective employers or clients.
 ![Web Developer Project Gallery](public/images/webdeveloperprojects.png)
   
 - **Experience section**: Overview of professional background, skills, and technologies.
+
+![Web Developer Experience](public/images/webdeveloperexperience.png)
+  
 - **Contact form**: Allows visitors to send me messages directly.
 - **Blog (optional)**: A section for writing about web development, tools, and experiences.
 
