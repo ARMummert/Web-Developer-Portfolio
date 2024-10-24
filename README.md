@@ -1,5 +1,7 @@
 # Web Developer Portfolio
 
+![Web Developer Home](public/images/webdeveloperhome.png)
+
 Welcome to the web developer portfolio! This project showcases a developers work, skills, and experiences as a Developer. Built with **React**, it provides an interactive and responsive platform to explore a developer's projects, learn about the developer's background, and get in touch.
 
 ## Table of Contents
