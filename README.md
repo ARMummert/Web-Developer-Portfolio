@@ -1,4 +1,3 @@
-# Web Developer Portfolio
 
 ![Web Developer Home](public/images/webdeveloperhome.png)
 
