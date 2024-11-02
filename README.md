@@ -89,10 +89,6 @@ Make sure you have the following installed:
     - Django built-in database for organizing and managing project data
 8. UI Interface
     - Figma for UI design of each web page
-9. Hosting Service
-    - Dreamhost for hosting my portfolio application (https://www.mummertar.xyz) 
-    - Heroku for backend and frontend deployment
-
 
 # INSTALLATION
 ## Clone or download this project repository
