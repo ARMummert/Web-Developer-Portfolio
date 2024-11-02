@@ -46,8 +46,7 @@ to prospective employers or clients.
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [React Router](https://reactrouter.com/)
-- [Node.js](https://nodejs.org/) (for backend API if applicable)
-- [PostgreSQL](https://www.postgresql.org/) (or other databases if applicable)
+- [Django](https://www.djangoproject.com/)
 
 ## Getting Started
 
